@@ -1,3 +1,7 @@
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Security+](https://img.shields.io/badge/Security-CompTIA%2B-red.svg)](https://www.comptia.org/certifications/security)
+[![AWS](https://img.shields.io/badge/AWS-S3-blue.svg)](https://aws.amazon.com/s3/)
+
 <div align="center">
     <img src="./screenshots/cloudsec-logo.jpg" alt="Cloud Security Logo" width="30%" style="display: inline-block; border-radius: 50%;" >
 </div>
