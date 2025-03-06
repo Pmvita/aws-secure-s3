@@ -4,6 +4,12 @@
 
 This project provides a Bash script to create and configure a highly secure AWS S3 bucket using the AWS CLI. The script ensures that the bucket is protected with encryption, restricted public access, and enforced HTTPS-only connections. Additionally, it enables AWS CloudTrail logging to monitor all S3 access activities.
 
+## Screenshots
+<div align="row">
+ <img src="./screenshots/screenshot1.png" alt="Secure AWS S3 Bucket Setup" width="45%" style="display: inline-block;">
+ <img src="./screenshots/screenshot2.png" alt="Secure AWS S3 Bucket Setup" width="45%" style="display: inline-block;">
+</div>
+
 ## 🛠️ Features
 
 - ✅ **Creates a secure S3 bucket**
