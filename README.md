@@ -6,7 +6,7 @@
     <img src="./screenshots/cloudsec-logo.jpg" alt="Cloud Security Logo" width="30%" style="display: inline-block; border-radius: 50%;" >
 </div>
 
-# Secure AWS S3 Bucket Setup
+# Secure AWS S3 Bucket Setups
 
 ## 🚀 Project Overview
 
