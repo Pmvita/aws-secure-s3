@@ -1,6 +1,6 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Security+](https://img.shields.io/badge/Security-CompTIA%2B-red.svg)](https://www.comptia.org/certifications/security)
-[![AWS](https://img.shields.io/badge/AWS-S3-blue.svg)](https://aws.amazon.com/s3/)
+[![AWS](https://img.shields.io/badge/AWS-S3-organge.svg)](https://aws.amazon.com/s3/)
 [![Bash](https://img.shields.io/badge/Shell-Bash-informational.svg)](https://www.gnu.org/software/bash/)
 [![CloudTrail](https://img.shields.io/badge/AWS-CloudTrail-orange.svg)](https://aws.amazon.com/cloudtrail/)
 [![Encryption](https://img.shields.io/badge/Encryption-AES--256-yellow.svg)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
